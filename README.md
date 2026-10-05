@@ -10,12 +10,8 @@ This repository contains the extracted proprietary vendor binaries and HALs requ
 - **VNDK Version**: 31
 
 ## Extraction Details
-- **Source Dump**: Stock Android 12 firmware (`super.img` -> `vendor_a` partition)
 - **Extraction Method**: `extract-files.sh` using `lineage-18.1` shell-based `extract-utils`
 - **Extracted Components**:
   - MediaTek Graphics & Hardware Composer (`hwcomposer.mt6761.so`, `allocator@4.0`)
   - Primary Audio HAL (`audio.primary.mt6761.so`)
   - Telephony & RIL stack (`mtkfusionrild`, `libmtk-ril.so`)
-
-
-  this project that i am working on i have used some ai to help you may say "ai slop" but i do not care.
