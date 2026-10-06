@@ -1,5 +1,5 @@
-# Proprietary Vendor Blobs for north korean E12
-
+# WIP Proprietary Vendor Blobs for north korean E12
+DO NOT USE THIS THESE VENDOR BLOBS ARE COOKED I AM WORKING ON IT 
 This repository contains the extracted proprietary vendor binaries and HALs required to build LineageOS 24 (Android 17) for the **north korean E12** (`E12`).
 
 ## Device Specifications
